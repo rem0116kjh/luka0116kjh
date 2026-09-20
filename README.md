@@ -47,7 +47,7 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luka0116kjh/luka0116kjh/output/snake-dark.svg" />
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/luka0116kjh/luka0116kjh/output/snake.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rem0116kjh/rem0116kjh/output/snake-dark.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/rem0116kjh/rem0116kjh/output/snake.svg" width="100%" />
   </picture>
 </div>
